@@ -41,6 +41,7 @@ Airplane.prototype.land = function () {
 
 function Person() {
 //
+console.log("Hi world");
 }
 
 /*
