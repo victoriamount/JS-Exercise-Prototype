@@ -122,10 +122,10 @@ Baby.prototype.play = function() {
   TASK 4
 
   In your own words explain the four principles for the "this" keyword below:
-  1. 
-  2. 
-  3. 
-  4. 
+  1. Window / global object binding - default setting, where "this" refers to the window
+  2. Implicit binding - "this" refers to the object to the left of the . when invoking the function of an object with a method
+  3. New binding - creates a new object that "this" now refers to
+  4. Explicit binding - call, apply, and bind offer 3 options for having "this" specifically refer to an object, their differences being how info is processed (1 by 1 or as an array) and their output (whether they invoke a function or return an array)
 */
 
 
