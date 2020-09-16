@@ -40,7 +40,7 @@ Airplane.prototype.land = function () {
 */
 
 function Person() {
-
+//
 }
 
 /*
